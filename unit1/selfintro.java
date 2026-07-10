@@ -1,4 +1,4 @@
-//1.1 write a java program to get your selfintro.
+//1.2 write a java program to get your selfintro.
 
 
 class selfintro
