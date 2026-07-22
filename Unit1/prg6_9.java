@@ -1,4 +1,4 @@
-// 6_9.. Loop
+// 6_9.. Loop.
 
 import java.util.Scanner;
 
