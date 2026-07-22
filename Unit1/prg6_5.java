@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-  public class loop5{
+  public class prg6_5{
   
 		public static void main(String[] args){
 
