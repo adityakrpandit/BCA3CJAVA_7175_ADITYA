@@ -1,6 +1,6 @@
-//6_2 loop2
+// 6_2 loop2
 
-public class loop2{
+public class prg6_2{
 	
 	public static void main(String [] args){
 		
