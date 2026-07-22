@@ -9,8 +9,8 @@ import java.util.Scanner;
         	System.out.print("Enter your name: ");
         	String name = input.nextLine();
 			
-        	System.out.print("Enter your Cource: ");
-        	String cource = input.nextLine();
+        	System.out.print("Enter your Course: ");
+        	String course = input.nextLine();
 			
         	System.out.print("Enter batch: ");
         	String div = input.nextLine();
@@ -22,7 +22,7 @@ import java.util.Scanner;
         	int roll = input.nextInt();
         
         System.out.println(name);
-   		System.out.println(cource);
+   		System.out.println(course);
 		System.out.println(div);
 		System.out.println(cl);
 		System.out.println(roll);
