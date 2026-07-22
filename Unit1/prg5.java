@@ -9,7 +9,7 @@ public class prg5{
         System.out.print("Enter your name: ");
         String name = input.nextLine();
 		
-        System.out.print("Enter your Cource: ");
+        System.out.print("Enter your Course: ");
         String course = input.nextLine();
 		
         System.out.print("Enter batch: ");
@@ -22,7 +22,7 @@ public class prg5{
         int roll = input.nextInt();
         
         System.out.println(name);
-   	    System.out.println(cource);
+   	    System.out.println(course);
 	    System.out.println(div);
 	    System.out.println(cl);
 	    System.out.println(roll);
