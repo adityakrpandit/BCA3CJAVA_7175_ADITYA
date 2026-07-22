@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
- class loop9{
+ class prg6_9{
 		
 	public static void main(String[] args){
 	Scanner scn = new Scanner(System.in);
