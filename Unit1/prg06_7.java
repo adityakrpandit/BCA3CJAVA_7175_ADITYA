@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class prg6_7{
+public class prg06_7{
 		
 	public static void main(String[] args){
 	Scanner scn = new Scanner(System.in);
