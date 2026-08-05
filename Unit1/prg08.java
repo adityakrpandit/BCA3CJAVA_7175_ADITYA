@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-	public class prg8{
+	public class prg08{
 		
 		public static void main(String []args){
 			
