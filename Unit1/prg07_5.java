@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class prg7_5{
+public class prg07_5{
 	
 	public static void main(String [] args){
 		
