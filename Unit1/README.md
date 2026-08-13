@@ -16,6 +16,7 @@ This repository contains basic Java programs created for BCA practicals.
 - Loops (for, while, do-while)
 - Conditional Statements (if, if-else, switch)
 - Other Basic Java Programs
+- Pattern 
 
 
 This repository is created for learning Java programming and completing BCA practical assignments.
