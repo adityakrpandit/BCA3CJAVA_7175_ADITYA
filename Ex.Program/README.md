@@ -1,7 +1,7 @@
 
 # Java – Example Programs
 
-This folder contains **Example Java programs** for practice and understanding basic Java concepts.
+This folder contains **Extra  Java programs** for practice and understanding basic Java concepts.
 
 ## Programs Covered
 
