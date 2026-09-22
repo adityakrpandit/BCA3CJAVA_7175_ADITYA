@@ -1,4 +1,4 @@
-public class TryCatch {
+public class prg01 {
     public static void main(String[] args) {
         String studentName = "Aditya";
         System.out.println(studentName +  " started math calculation... ");
