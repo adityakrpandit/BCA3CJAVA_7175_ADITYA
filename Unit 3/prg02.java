@@ -1,5 +1,6 @@
 public class MultipleCatch {
     public static void main(String[] args) {
+        
         try {
             int[] AdityaScores = new int[3];
             AdityaScores[0] = 95;
