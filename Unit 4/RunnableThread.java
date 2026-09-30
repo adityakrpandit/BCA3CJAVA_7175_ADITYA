@@ -1,3 +1,5 @@
+// Create a thread using Runnable class.....
+
 class a implements Runnable
   {
     public void run()
